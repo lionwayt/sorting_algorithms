@@ -1,3 +1,4 @@
+#include <stdlib.h>
 #include "deck.h"
 #include <stdio.h>
 /**
